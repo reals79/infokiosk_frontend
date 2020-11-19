@@ -25,7 +25,7 @@ new Vue({
     return {
       idleTime: 0,
       idleInterval: null,
-      settings: { timeout: 10 },
+      settings: { timeout: 30 },
       isSlideshow: false,
     }
   },
